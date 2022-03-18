@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&family=Indie+Flower&family=Mukta:wght@500&family=Pacifico&display=swap');
+
+nav{
+    background-color: #F76E11;
+    color: black;
+    text-align: center;
+    padding: 5rem;
+    text-decoration: none;
+    font-family: 'Mukta', sans-serif;
+    font-size: 2rem;
+}
+
+img{
+    border: 3px solid purple;
+}
+
+iframe{
+    padding-left: 720px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+h2{
+    text-align: center;
+    font-size: 4rem; color: red;
+}
+
+section{
+    background-image: url(https://d28hgpri8am2if.cloudfront.net/book_images/onix/interior_spreads/9781800228009/my-amazing-collection-of-magical-stories-9781800228009.in01.jpg);
+}
+
+footer{
+    background-color: #F76E11;
+    color: black;
+    text-align: center;
+    padding: 5rem;
+    text-decoration: none;
+    font-family: 'Mukta', sans-serif;
+    font-size: 2rem;
+}
